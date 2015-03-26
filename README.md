@@ -10,7 +10,8 @@ SourceCode中的源代码建议使用eclipse/my eclipse导入后，编译运行�
 * forMacOrLinux.rar mac/linux系统请下载这个
 * forWin7_8OrXP.rar windows系列的系统请下载这个<br>
 <br>
-### source code文档内容
+source code文档内容
+
 * src目录内的是源代码
   * event包--包含所有事件的逻辑实现
   * form包 --包含所有界面的构造初始化
